@@ -53,7 +53,7 @@ Sou uma desenvolvedora apaixonada por tecnologia, inovação e desafios. Atualme
 ---
 
 ## 🐍 Contribuições Animadas
-![Snake animation](https://github.com/NicolyAlvesC/NicolyAlvesC/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/NicolyAlvesC/NicolyAlvesC/output/github-contribution-grid-snake.svg)
 
 ---
 
