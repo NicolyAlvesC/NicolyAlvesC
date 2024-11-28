@@ -1,38 +1,24 @@
-# 👋 Olá, eu sou Nicoly Alves!
-
-Sou uma desenvolvedora apaixonada por tecnologia, inovação e desafios. Atualmente, estou focada em desenvolver habilidades em **Front-end** e explorando novas tecnologias para transformar ideias em realidade!
+<h2 align="center">👋 Olá! Seja bem-vind@! Me chamo Nicoly, mas pode me chamar de Nico!</h2>
+<h4 align="center">Sou apaixonada por front-end, café, livros de romance e terror e por fim, gatos!</h4>
 
 ---
 
 ## 🚀 Sobre mim
-- 🌱 Atualmente aprendendo: **React.js, ASP.NET MVC, C#**
-- 💼 Trabalhando no **Digital Lab** como estagiária do time de inovação
+- 🌱 Aprendendo: **React.js, ASP.NET MVC, C#**
+- 💼 Estagiária no **Digital Lab** (time de inovação)
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🌟 Interesse especial em: **Inovação, Metodologia Scrum, e Tecnologias Web**
-- 🧠 Buscando me tornar uma **desenvolvedora front-end** profissional
+- 🧠 Objetivo: Tornar-me uma **desenvolvedora front-end** profisisonal!
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git">
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/NicolyAlvesC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolyAlvesC&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyAlvesC&layout=compact&langs_count=7&theme=radical"/>
-  </a>
 </div>
 
 ---
@@ -51,10 +37,3 @@ Sou uma desenvolvedora apaixonada por tecnologia, inovação e desafios. Atualme
 </div>
 
 ---
-
-## 🐍 Contribuições Animadas
-![Snake animation](https://raw.githubusercontent.com/NicolyAlvesC/NicolyAlvesC/output/github-contribution-grid-snake.svg)
-
----
-
-**✨ *"A jornada é tão importante quanto o destino. Vamos construir o futuro juntos!"* ✨**
