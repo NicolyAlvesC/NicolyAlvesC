@@ -5,7 +5,6 @@
 
 ## 🚀 Sobre mim
 - 🌱 Aprendendo: **React.js, ASP.NET MVC, C#**
-- 💼 Estagiária no **Digital Lab** (time de inovação)
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🧠 Objetivo: Tornar-me uma **desenvolvedora front-end** profisisonal!
 
