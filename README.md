@@ -5,8 +5,8 @@
 
 ## 🚀 Sobre mim
 - 🌱 Aprendendo: **React.js, ASP.NET MVC, C#**
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🧠 Objetivo: Tornar-me uma **desenvolvedora front-end** profisisonal!
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas**
+- 😬 Responsável de TI
 
 ---
 
