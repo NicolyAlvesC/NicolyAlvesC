@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 - 🌱 Aprendendo: **React.js, ASP.NET MVC, C#**
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas**
-- 😬 Responsável de TI
+- 😬 Analista de CS
 
 ---
 
